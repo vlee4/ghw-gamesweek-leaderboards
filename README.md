@@ -48,6 +48,6 @@ OR
 
 ### References
 
-Connect Python Flask app with Auth0: https://auth0.com/docs/quickstart/webapp/python/interactive
-Flask quickstart: https://flask.palletsprojects.com/en/2.3.x/quickstart/
-Flask Forms: https://flask-wtf.readthedocs.io/en/1.0.x/quickstart/
+- Connect Python Flask app with Auth0: https://auth0.com/docs/quickstart/webapp/python/interactive
+- Flask quickstart: https://flask.palletsprojects.com/en/2.3.x/quickstart/
+- Flask Forms: https://flask-wtf.readthedocs.io/en/1.0.x/quickstart/
